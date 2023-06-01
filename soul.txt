@@ -1,1 +1,2 @@
-it is well with my sould
+it is well with my soul
+Git status is used for mofified file in working directory only.
