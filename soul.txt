@@ -1,2 +1,3 @@
 it is well with my soul
-Git status is used for mofified file in working directory only.
+Git stash is used for modified file in working directory only.
+when git stash is used files already in local repo, then it brings back to working area.
